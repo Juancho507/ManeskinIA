@@ -1,0 +1,596 @@
+2026-10-28 17:32:47 DevMachine mylogger[998] INFO synch_see is ok
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:51 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:32:52 DevMachine mylogger[998] WARNING player(1) lost MOVE at cycle GameTime cycle 0.45
+2026-10-28 17:32:52 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.45
+2026-10-28 17:32:52 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.45
+2026-10-28 17:32:52 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.46
+2026-10-28 17:32:54 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.66
+2026-10-28 17:32:54 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.66
+2026-10-28 17:32:54 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.66
+2026-10-28 17:32:54 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.67
+2026-10-28 17:32:55 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.75
+2026-10-28 17:32:55 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.75
+2026-10-28 17:32:55 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.75
+2026-10-28 17:32:55 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.76
+2026-10-28 17:32:56 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.84
+2026-10-28 17:32:56 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.84
+2026-10-28 17:32:56 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.84
+2026-10-28 17:32:56 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.85
+2026-10-28 17:32:58 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.105
+2026-10-28 17:32:58 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.105
+2026-10-28 17:32:58 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.105
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.106
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.108
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.108
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.108
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.109
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.111
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.111
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.111
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.112
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.114
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.114
+2026-10-28 17:32:59 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.114
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.115
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.117
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.117
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.117
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.118
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.120
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.120
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.120
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.121
+2026-10-28 17:33:01 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.123
+2026-10-28 17:33:01 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.123
+2026-10-28 17:33:01 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.123
+2026-10-28 17:33:01 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.125
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.135
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.135
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.135
+2026-10-28 17:33:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.137
+2026-10-28 17:33:01 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.144
+2026-10-28 17:33:01 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.144
+2026-10-28 17:33:01 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.144
+2026-10-28 17:33:01 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.145
+2026-10-28 17:33:02 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.147
+2026-10-28 17:33:02 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.147
+2026-10-28 17:33:02 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.147
+2026-10-28 17:33:02 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.148
+2026-10-28 17:33:05 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.174
+2026-10-28 17:33:05 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.174
+2026-10-28 17:33:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.174
+2026-10-28 17:33:06 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.176
+2026-10-28 17:33:12 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.220
+2026-10-28 17:33:12 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.220
+2026-10-28 17:33:12 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.220
+2026-10-28 17:33:12 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.221
+2026-10-28 17:33:14 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.233
+2026-10-28 17:33:14 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.233
+2026-10-28 17:33:14 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.233
+2026-10-28 17:33:15 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.234
+2026-10-28 17:33:15 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.234
+2026-10-28 17:33:15 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.234
+2026-10-28 17:33:16 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.246
+2026-10-28 17:33:16 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.246
+2026-10-28 17:33:16 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.246
+2026-10-28 17:33:17 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.248
+2026-10-28 17:33:25 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.309
+2026-10-28 17:33:25 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.309
+2026-10-28 17:33:25 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.309
+2026-10-28 17:33:26 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.310
+2026-10-28 17:33:26 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.310
+2026-10-28 17:33:26 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.310
+2026-10-28 17:33:27 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.324
+2026-10-28 17:33:27 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.324
+2026-10-28 17:33:27 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.324
+2026-10-28 17:33:27 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.325
+2026-10-28 17:33:28 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.330
+2026-10-28 17:33:28 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.330
+2026-10-28 17:33:28 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.330
+2026-10-28 17:33:28 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.331
+2026-10-28 17:33:29 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.333
+2026-10-28 17:33:29 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.333
+2026-10-28 17:33:29 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.333
+2026-10-28 17:33:29 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.336
+2026-10-28 17:33:29 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.336
+2026-10-28 17:33:29 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.336
+2026-10-28 17:33:30 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.345
+2026-10-28 17:33:30 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.345
+2026-10-28 17:33:30 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.345
+2026-10-28 17:33:30 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.349
+2026-10-28 17:33:31 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.354
+2026-10-28 17:33:31 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.354
+2026-10-28 17:33:31 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.354
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.355
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.355
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.355
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.357
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.357
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.357
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.358
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.369
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.369
+2026-10-28 17:33:32 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.369
+2026-10-28 17:33:33 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.378
+2026-10-28 17:33:33 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.378
+2026-10-28 17:33:33 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.378
+2026-10-28 17:33:34 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.381
+2026-10-28 17:33:34 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.381
+2026-10-28 17:33:34 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.381
+2026-10-28 17:33:34 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.385
+2026-10-28 17:33:36 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.399
+2026-10-28 17:33:36 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.399
+2026-10-28 17:33:36 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.399
+2026-10-28 17:33:36 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.401
+2026-10-28 17:33:37 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.403
+2026-10-28 17:33:37 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.403
+2026-10-28 17:33:37 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.403
+2026-10-28 17:33:37 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.404
+2026-10-28 17:33:41 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.432
+2026-10-28 17:33:41 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.432
+2026-10-28 17:33:41 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.432
+2026-10-28 17:33:41 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.434
+2026-10-28 17:33:42 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.450
+2026-10-28 17:33:42 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.450
+2026-10-28 17:33:42 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.450
+2026-10-28 17:33:43 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.451
+2026-10-28 17:33:43 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.453
+2026-10-28 17:33:43 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.453
+2026-10-28 17:33:43 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.453
+2026-10-28 17:33:43 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.454
+2026-10-28 17:33:44 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.462
+2026-10-28 17:33:44 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.462
+2026-10-28 17:33:44 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.462
+2026-10-28 17:33:45 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.464
+2026-10-28 17:33:45 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.465
+2026-10-28 17:33:45 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.465
+2026-10-28 17:33:45 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.465
+2026-10-28 17:33:45 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.467
+2026-10-28 17:33:45 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.468
+2026-10-28 17:33:45 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.468
+2026-10-28 17:33:45 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.468
+2026-10-28 17:33:45 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.469
+2026-10-28 17:33:46 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 0.477
+2026-10-28 17:33:46 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 0.477
+2026-10-28 17:33:46 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.477
+2026-10-28 17:33:46 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 0.478
+2026-10-28 17:33:51 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 6.0. moment=405.0
+2026-10-28 17:33:52 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 7.0. moment=270.0
+2026-10-28 17:33:58 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 56.0
+2026-10-28 17:33:58 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 56.0
+2026-10-28 17:33:58 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 56.0
+2026-10-28 17:33:58 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 56.0
+2026-10-28 17:33:58 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 58.0
+2026-10-28 17:33:58 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 58.0
+2026-10-28 17:33:58 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 58.0
+2026-10-28 17:33:58 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 58.0
+2026-10-28 17:33:59 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 17:33:59 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 63.0
+2026-10-28 17:33:59 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 63.0
+2026-10-28 17:33:59 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 63.0
+2026-10-28 17:33:59 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 63.0
+2026-10-28 17:33:59 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:34:00 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 65.0
+2026-10-28 17:34:00 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 65.0
+2026-10-28 17:34:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 65.0
+2026-10-28 17:34:00 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 65.0
+2026-10-28 17:34:02 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 89.0
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 89.0
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 89.0
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 89.0
+2026-10-28 17:34:03 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 17:34:03 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 91.0
+2026-10-28 17:34:03 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 91.0
+2026-10-28 17:34:03 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 91.0
+2026-10-28 17:34:03 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 91.0
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 94.0
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 94.0
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 94.0
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 94.0
+2026-10-28 17:34:02 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 17:34:02 DevMachine mylogger[998] ERROR (set turn neck) player(1) moment is out of range at cycle GameTime cycle 98.0. moment=180.0
+2026-10-28 17:34:02 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 98.0
+2026-10-28 17:34:02 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 98.0
+2026-10-28 17:34:03 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 17:34:03 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 99.0
+2026-10-28 17:34:03 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 99.0
+2026-10-28 17:34:03 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 101.0. next neck angle=214.45896116520422 -90.0 90.0
+2026-10-28 17:34:03 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:03 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 101.0
+2026-10-28 17:34:03 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 101.0
+2026-10-28 17:34:03 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 102.0. moment=181.4594064695931
+2026-10-28 17:34:03 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.NORMAL
+2026-10-28 17:34:03 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.NORMAL
+2026-10-28 17:34:04 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 102.0
+2026-10-28 17:34:04 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 102.0
+2026-10-28 17:34:04 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 102.0
+2026-10-28 17:34:04 DevMachine mylogger[998] WARNING player(1) lost command SAY at cycle GameTime cycle 102.0
+2026-10-28 17:34:04 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 102.0
+2026-10-28 17:34:04 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:04 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 115.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 115.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 115.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 115.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 116.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 116.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 116.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 116.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 119.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 119.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 119.0
+2026-10-28 17:34:05 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 119.0
+2026-10-28 17:34:05 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 120.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 17:34:06 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 120.0
+2026-10-28 17:34:06 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 120.0
+2026-10-28 17:34:06 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 120.0
+2026-10-28 17:34:06 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 120.0
+2026-10-28 17:34:07 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 132.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 17:34:07 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 132.0
+2026-10-28 17:34:07 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 132.0
+2026-10-28 17:34:07 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 132.0
+2026-10-28 17:34:07 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 132.0
+2026-10-28 17:34:07 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 134.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 17:34:07 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 134.0
+2026-10-28 17:34:07 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 134.0
+2026-10-28 17:34:07 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 135.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 17:34:08 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 135.0
+2026-10-28 17:34:08 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 135.0
+2026-10-28 17:34:08 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 135.0
+2026-10-28 17:34:08 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 135.0
+2026-10-28 17:34:08 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 136.0
+2026-10-28 17:34:12 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 136.0
+2026-10-28 17:34:13 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 136.0
+2026-10-28 17:34:13 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 136.0
+2026-10-28 17:34:17 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 172.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 17:34:18 DevMachine mylogger[998] WARNING player(1) lost command SAY at cycle GameTime cycle 176.0
+2026-10-28 17:34:18 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 181.0
+2026-10-28 17:34:18 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 181.0
+2026-10-28 17:34:18 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 181.0
+2026-10-28 17:34:18 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 181.0
+2026-10-28 17:34:19 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 184.0
+2026-10-28 17:34:19 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 184.0
+2026-10-28 17:34:19 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 184.0
+2026-10-28 17:34:19 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 184.0
+2026-10-28 17:34:20 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 193.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 17:34:21 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 205.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 205.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 205.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 205.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 207.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 207.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 207.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 207.0
+2026-10-28 17:34:22 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 210.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 17:34:22 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 212.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 212.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 212.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 212.0
+2026-10-28 17:34:22 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 212.0
+2026-10-28 17:34:23 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 214.0
+2026-10-28 17:34:23 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 214.0
+2026-10-28 17:34:23 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 214.0
+2026-10-28 17:34:23 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 214.0
+2026-10-28 17:34:24 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:24 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:24 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 223.0
+2026-10-28 17:34:24 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 223.0
+2026-10-28 17:34:24 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 223.0
+2026-10-28 17:34:24 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 223.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 228.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 228.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 228.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 228.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 230.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 230.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 230.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 230.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 233.0
+2026-10-28 17:34:25 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 233.0
+2026-10-28 17:34:26 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 17:34:26 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:26 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 240.0
+2026-10-28 17:34:26 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 240.0
+2026-10-28 17:34:26 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 240.0
+2026-10-28 17:34:26 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 240.0
+2026-10-28 17:34:27 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 242.0. next neck angle=-93.48433260704701 -90.0 90.0
+2026-10-28 17:34:27 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 242.0
+2026-10-28 17:34:27 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 242.0
+2026-10-28 17:34:27 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 242.0
+2026-10-28 17:34:27 DevMachine mylogger[998] WARNING player(1) lost command SAY at cycle GameTime cycle 242.0
+2026-10-28 17:34:27 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 242.0
+2026-10-28 17:34:28 DevMachine mylogger[998] WARNING player(1) lost command SAY at cycle GameTime cycle 248.0
+2026-10-28 17:34:28 DevMachine mylogger[998] WARNING player(1) lost command SAY at cycle GameTime cycle 252.0
+2026-10-28 17:34:29 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 257.0. next neck angle=-96.63445080268383 -90.0 90.0
+2026-10-28 17:34:30 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 262.0. moment=391.31764524363695
+2026-10-28 17:34:31 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:31 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:31 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:31 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:31 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 265.6
+2026-10-28 17:34:31 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 265.6
+2026-10-28 17:34:31 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.6
+2026-10-28 17:34:31 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 265.10
+2026-10-28 17:34:31 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 265.10
+2026-10-28 17:34:31 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.10
+2026-10-28 17:34:32 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 265.16
+2026-10-28 17:34:32 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 265.16
+2026-10-28 17:34:32 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.16
+2026-10-28 17:34:32 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.21
+2026-10-28 17:34:34 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 265.28
+2026-10-28 17:34:34 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 265.28
+2026-10-28 17:34:34 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.28
+2026-10-28 17:34:34 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.33
+2026-10-28 17:34:33 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 265.34
+2026-10-28 17:34:33 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 265.34
+2026-10-28 17:34:33 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.34
+2026-10-28 17:34:33 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.36
+2026-10-28 17:34:35 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 265.49. next neck angle=-96.25 -90.0 90.0
+2026-10-28 17:34:35 DevMachine mylogger[998] WARNING player(1) lost MOVE at cycle GameTime cycle 265.49
+2026-10-28 17:34:35 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 265.49
+2026-10-28 17:34:35 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.49
+2026-10-28 17:34:35 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 265.50. next neck angle=-96.25 -90.0 90.0
+2026-10-28 17:34:35 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 265.50
+2026-10-28 17:34:36 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 273.0. moment=378.0
+2026-10-28 17:34:37 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 274.0. moment=261.0
+2026-10-28 17:34:37 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 275.0. moment=216.0
+2026-10-28 17:34:37 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 277.0. moment=189.0
+2026-10-28 17:34:39 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 293.0
+2026-10-28 17:34:39 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 293.0
+2026-10-28 17:34:39 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 293.0
+2026-10-28 17:34:39 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 293.0
+2026-10-28 17:34:39 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 294.0
+2026-10-28 17:34:39 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 294.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 299.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 299.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 299.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 299.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 301.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 301.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 302.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 302.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 302.0
+2026-10-28 17:34:40 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 302.0
+2026-10-28 17:34:41 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 17:34:41 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:34:41 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 305.0
+2026-10-28 17:34:41 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 305.0
+2026-10-28 17:34:41 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 305.0
+2026-10-28 17:34:41 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 305.0
+2026-10-28 17:34:41 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:34:41 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 310.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 310.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 310.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 310.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 315.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 315.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 316.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 316.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 316.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 316.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 317.0
+2026-10-28 17:34:42 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 317.0
+2026-10-28 17:34:43 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:34:43 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 324.0
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 324.0
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 324.0
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 324.0
+2026-10-28 17:34:43 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 325.0
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 325.0
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 326.0
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 326.0
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 326.0
+2026-10-28 17:34:43 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 326.0
+2026-10-28 17:34:44 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 327.0
+2026-10-28 17:34:44 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 327.0
+2026-10-28 17:34:44 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 327.0
+2026-10-28 17:34:44 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 327.0
+2026-10-28 17:34:45 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 339.0
+2026-10-28 17:34:45 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 339.0
+2026-10-28 17:34:45 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 339.0
+2026-10-28 17:34:45 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 339.0
+2026-10-28 17:34:45 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 343.0
+2026-10-28 17:34:45 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 343.0
+2026-10-28 17:34:46 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 346.0
+2026-10-28 17:34:46 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 346.0
+2026-10-28 17:34:46 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 346.0
+2026-10-28 17:34:46 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 346.0
+2026-10-28 17:34:46 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 348.0
+2026-10-28 17:34:46 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 348.0
+2026-10-28 17:34:47 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 353.0
+2026-10-28 17:34:47 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 353.0
+2026-10-28 17:34:47 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 353.0
+2026-10-28 17:34:47 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 353.0
+2026-10-28 17:34:47 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 355.0
+2026-10-28 17:34:47 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 355.0
+2026-10-28 17:34:47 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 355.0
+2026-10-28 17:34:47 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 355.0
+2026-10-28 17:34:48 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 361.0
+2026-10-28 17:34:48 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 361.0
+2026-10-28 17:34:48 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 363.0. next neck angle=-104.39291270211854 -90.0 90.0
+2026-10-28 17:34:48 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 363.0
+2026-10-28 17:34:48 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 363.0
+2026-10-28 17:34:48 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 363.0
+2026-10-28 17:34:48 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 363.0
+2026-10-28 17:34:48 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 365.0. next neck angle=-98.56768205227928 -90.0 90.0
+2026-10-28 17:34:49 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 366.0
+2026-10-28 17:34:49 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 366.0
+2026-10-28 17:34:49 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 366.0
+2026-10-28 17:34:49 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 366.0
+2026-10-28 17:34:49 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 374.0
+2026-10-28 17:34:49 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 374.0
+2026-10-28 17:34:49 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 375.0. moment=211.0465019513368
+2026-10-28 17:34:49 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 375.0. next neck angle=-109.49634850512827 -90.0 90.0
+2026-10-28 17:34:49 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 377.0. next neck angle=-109.82620094492371 -90.0 90.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 377.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 377.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 377.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 377.0
+2026-10-28 17:34:50 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 379.0. next neck angle=-109.79795283818129 -90.0 90.0
+2026-10-28 17:34:50 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 380.0. next neck angle=-109.89463534666812 -90.0 90.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 380.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 380.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 380.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 380.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 382.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 382.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 383.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 383.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 383.0
+2026-10-28 17:34:50 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 383.0
+2026-10-28 17:34:51 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 387.0. next neck angle=-177.29457475090118 -90.0 90.0
+2026-10-28 17:34:51 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 393.0. next neck angle=-171.90240898233915 -90.0 90.0
+2026-10-28 17:34:51 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 393.0
+2026-10-28 17:34:51 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 393.0
+2026-10-28 17:34:51 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 393.0
+2026-10-28 17:34:51 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 394.0. next neck angle=-171.90240898233915 -90.0 90.0
+2026-10-28 17:34:52 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 394.0
+2026-10-28 17:34:52 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 395.0
+2026-10-28 17:34:52 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 395.0
+2026-10-28 17:34:52 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 395.0
+2026-10-28 17:34:52 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 395.0
+2026-10-28 17:34:52 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:34:52 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 398.0
+2026-10-28 17:34:52 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 398.0
+2026-10-28 17:34:53 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 403.0. moment=288.45424564159924
+2026-10-28 17:34:53 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 403.0
+2026-10-28 17:34:53 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 403.0
+2026-10-28 17:34:53 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 403.0
+2026-10-28 17:34:53 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 403.0
+2026-10-28 17:34:53 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 406.0
+2026-10-28 17:34:53 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 406.0
+2026-10-28 17:34:53 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 406.0
+2026-10-28 17:34:53 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 406.0
+2026-10-28 17:34:54 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 407.0
+2026-10-28 17:34:54 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 407.0
+2026-10-28 17:34:54 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 407.0
+2026-10-28 17:34:54 DevMachine mylogger[998] WARNING player(1) lost command SAY at cycle GameTime cycle 407.0
+2026-10-28 17:34:54 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 407.0
+2026-10-28 17:34:55 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 416.0
+2026-10-28 17:34:55 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 416.0
+2026-10-28 17:34:55 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 416.0
+2026-10-28 17:34:55 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 416.0
+2026-10-28 17:34:55 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 418.0
+2026-10-28 17:34:55 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 418.0
+2026-10-28 17:34:55 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 418.0
+2026-10-28 17:34:55 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 418.0
+2026-10-28 17:34:55 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 423.0. moment=-396.6144717575376
+2026-10-28 17:34:56 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 423.0
+2026-10-28 17:34:56 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 423.0
+2026-10-28 17:34:56 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 423.0
+2026-10-28 17:34:56 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 423.0
+2026-10-28 17:34:56 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 425.0. moment=-206.52733631604977
+2026-10-28 17:34:56 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 425.0
+2026-10-28 17:34:56 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 425.0
+2026-10-28 17:34:56 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 425.0
+2026-10-28 17:34:56 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 425.0
+2026-10-28 17:34:57 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 432.0
+2026-10-28 17:34:57 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 432.0
+2026-10-28 17:34:57 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 432.0
+2026-10-28 17:34:57 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 432.0
+2026-10-28 17:34:57 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 433.0. next neck angle=-98.26058769278066 -90.0 90.0
+2026-10-28 17:34:57 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:34:57 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:34:57 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 17:34:57 DevMachine mylogger[998] WARNING player(1) lost DASH at cycle GameTime cycle 433.0
+2026-10-28 17:34:57 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 433.0
+2026-10-28 17:34:57 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 433.0
+2026-10-28 17:34:57 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 433.0
+2026-10-28 17:34:57 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 438.0. moment=-185.92157269002269
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 438.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 438.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 438.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 438.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 443.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 443.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 444.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 444.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 444.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 444.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 445.0
+2026-10-28 17:34:58 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 445.0
+2026-10-28 17:34:59 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 17:34:59 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 450.0
+2026-10-28 17:34:59 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 450.0
+2026-10-28 17:34:59 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 450.0
+2026-10-28 17:34:59 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 450.0
+2026-10-28 17:34:59 DevMachine mylogger[998] ERROR (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 452.0. next neck angle=168.64926181466552 -90.0 90.0
+2026-10-28 17:34:59 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:34:59 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 17:35:00 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 17:35:00 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 454.0
+2026-10-28 17:35:00 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 454.0
+2026-10-28 17:35:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 454.0
+2026-10-28 17:35:00 DevMachine mylogger[998] WARNING player(1) lost command SAY at cycle GameTime cycle 454.0
+2026-10-28 17:35:00 DevMachine mylogger[998] WARNING player(1) lost command ATTENTIONTO at cycle GameTime cycle 454.0
+2026-10-28 17:35:00 DevMachine mylogger[998] WARNING player(1) lost MOVE at cycle GameTime cycle 457.2
+2026-10-28 17:35:00 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.2
+2026-10-28 17:35:00 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.2
+2026-10-28 17:35:02 DevMachine mylogger[998] WARNING player(1) lost MOVE at cycle GameTime cycle 457.3
+2026-10-28 17:35:02 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.3
+2026-10-28 17:35:02 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.3
+2026-10-28 17:35:02 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 457.15
+2026-10-28 17:35:02 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.15
+2026-10-28 17:35:02 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.15
+2026-10-28 17:35:03 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.20
+2026-10-28 17:35:03 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 457.21
+2026-10-28 17:35:03 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.21
+2026-10-28 17:35:03 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.21
+2026-10-28 17:35:03 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.25
+2026-10-28 17:35:03 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 457.27
+2026-10-28 17:35:03 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.27
+2026-10-28 17:35:03 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.27
+2026-10-28 17:35:03 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.28
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 457.33
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.33
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.33
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.35
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 457.36
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.36
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.36
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.37
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 457.39
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.39
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.39
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.40
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 457.42
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.42
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.42
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.43
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 457.45
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.45
+2026-10-28 17:35:04 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.45
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.47
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost TURN at cycle GameTime cycle 457.48
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost command TURN_NECK at cycle GameTime cycle 457.48
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.48
+2026-10-28 17:35:05 DevMachine mylogger[998] WARNING player(1) lost command CHANGE_VIEW at cycle GameTime cycle 457.50
+2026-10-28 17:35:06 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 462.0. moment=387.00000000000006
+2026-10-28 17:35:06 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 464.0. moment=206.99999999999997
+2026-10-28 17:35:06 DevMachine mylogger[998] ERROR (set turn) player(1) moment is out of boundary at cycle GameTime cycle 465.0. moment=190.8
+2026-10-28 17:35:06 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:35:08 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:35:08 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:35:08 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 17:35:08 DevMachine mylogger[998] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL

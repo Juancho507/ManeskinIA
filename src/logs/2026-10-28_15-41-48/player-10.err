@@ -1,0 +1,949 @@
+2026-10-28 15:42:43 Juancho507 mylogger[1630] INFO synch_see is ok
+2026-10-28 15:42:43 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.ILLEGAL, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:05 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:06 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:07 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:07 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:07 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:08 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 0.126. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:43:09 Juancho507 mylogger[1630] WARNING player(10) lost MOVE at cycle GameTime cycle 0.126
+2026-10-28 15:43:09 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.126
+2026-10-28 15:43:09 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.126
+2026-10-28 15:43:09 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 0.129. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:43:09 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.132
+2026-10-28 15:43:09 Juancho507 mylogger[1630] WARNING player(10) lost MOVE at cycle GameTime cycle 0.132
+2026-10-28 15:43:09 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.136
+2026-10-28 15:43:10 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.138
+2026-10-28 15:43:10 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.138
+2026-10-28 15:43:10 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.138
+2026-10-28 15:43:10 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.142
+2026-10-28 15:43:11 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.147
+2026-10-28 15:43:11 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.147
+2026-10-28 15:43:11 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.147
+2026-10-28 15:43:12 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.150
+2026-10-28 15:43:12 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.150
+2026-10-28 15:43:12 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.150
+2026-10-28 15:43:12 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.156
+2026-10-28 15:43:12 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.156
+2026-10-28 15:43:12 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.156
+2026-10-28 15:43:12 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.157
+2026-10-28 15:43:13 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.159
+2026-10-28 15:43:13 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.159
+2026-10-28 15:43:13 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.159
+2026-10-28 15:43:13 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.161
+2026-10-28 15:43:13 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.165
+2026-10-28 15:43:13 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.165
+2026-10-28 15:43:13 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.165
+2026-10-28 15:43:14 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.166
+2026-10-28 15:43:14 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.168
+2026-10-28 15:43:14 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.168
+2026-10-28 15:43:14 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.168
+2026-10-28 15:43:14 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.169
+2026-10-28 15:43:14 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.171
+2026-10-28 15:43:14 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.171
+2026-10-28 15:43:14 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.171
+2026-10-28 15:43:14 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.172
+2026-10-28 15:43:15 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.186
+2026-10-28 15:43:15 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.186
+2026-10-28 15:43:15 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.186
+2026-10-28 15:43:16 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.193
+2026-10-28 15:43:16 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.195
+2026-10-28 15:43:16 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.195
+2026-10-28 15:43:16 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.195
+2026-10-28 15:43:16 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.196
+2026-10-28 15:43:16 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.198
+2026-10-28 15:43:16 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.198
+2026-10-28 15:43:16 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.198
+2026-10-28 15:43:17 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.200
+2026-10-28 15:43:17 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.201
+2026-10-28 15:43:17 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.201
+2026-10-28 15:43:17 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.201
+2026-10-28 15:43:17 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.203
+2026-10-28 15:43:17 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.204
+2026-10-28 15:43:17 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.204
+2026-10-28 15:43:17 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.204
+2026-10-28 15:43:17 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.206
+2026-10-28 15:43:18 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.210
+2026-10-28 15:43:18 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.210
+2026-10-28 15:43:18 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.210
+2026-10-28 15:43:18 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.211
+2026-10-28 15:43:18 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.213
+2026-10-28 15:43:18 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.213
+2026-10-28 15:43:18 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.213
+2026-10-28 15:43:18 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.214
+2026-10-28 15:43:19 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.216
+2026-10-28 15:43:19 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.216
+2026-10-28 15:43:19 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.216
+2026-10-28 15:43:19 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.217
+2026-10-28 15:43:20 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.222
+2026-10-28 15:43:20 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.222
+2026-10-28 15:43:20 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.222
+2026-10-28 15:43:21 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.233
+2026-10-28 15:43:21 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.234
+2026-10-28 15:43:21 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.234
+2026-10-28 15:43:21 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.234
+2026-10-28 15:43:21 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.235
+2026-10-28 15:43:22 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.240
+2026-10-28 15:43:22 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.240
+2026-10-28 15:43:22 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.240
+2026-10-28 15:43:23 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.248
+2026-10-28 15:43:23 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.252
+2026-10-28 15:43:23 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.252
+2026-10-28 15:43:23 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.252
+2026-10-28 15:43:23 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.254
+2026-10-28 15:43:24 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.255
+2026-10-28 15:43:24 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.255
+2026-10-28 15:43:24 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.255
+2026-10-28 15:43:24 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.257
+2026-10-28 15:43:25 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.270
+2026-10-28 15:43:25 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.270
+2026-10-28 15:43:25 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.270
+2026-10-28 15:43:26 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.272
+2026-10-28 15:43:26 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.273
+2026-10-28 15:43:26 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.273
+2026-10-28 15:43:26 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.273
+2026-10-28 15:43:26 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.275
+2026-10-28 15:43:27 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 0.282
+2026-10-28 15:43:27 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 0.282
+2026-10-28 15:43:27 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 0.282
+2026-10-28 15:43:27 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:27 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 1.0
+2026-10-28 15:43:27 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:27 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 2.0
+2026-10-28 15:43:27 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 2.0
+2026-10-28 15:43:27 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 2.0
+2026-10-28 15:43:27 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 2.0
+2026-10-28 15:43:28 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 5.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:43:28 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 8.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:43:28 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 8.0
+2026-10-28 15:43:28 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 8.0
+2026-10-28 15:43:28 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 8.0
+2026-10-28 15:43:28 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 8.0
+2026-10-28 15:43:29 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 9.0
+2026-10-28 15:43:29 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 9.0
+2026-10-28 15:43:29 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 9.0
+2026-10-28 15:43:29 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 9.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 15.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 15.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 15.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 15.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 18.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 18.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 18.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 18.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 20.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 20.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 20.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 20.0
+2026-10-28 15:43:30 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 24.0
+2026-10-28 15:43:31 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 24.0
+2026-10-28 15:43:31 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 24.0
+2026-10-28 15:43:31 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 24.0
+2026-10-28 15:43:33 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 37.0
+2026-10-28 15:43:33 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 37.0
+2026-10-28 15:43:33 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 37.0
+2026-10-28 15:43:33 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 37.0
+2026-10-28 15:43:34 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 43.0. moment=260.6949
+2026-10-28 15:43:34 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:34 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:34 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:34 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:34 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 43.0
+2026-10-28 15:43:34 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 43.0
+2026-10-28 15:43:34 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 43.0
+2026-10-28 15:43:34 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 43.0
+2026-10-28 15:43:34 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:35 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:35 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 55.0. moment=382.60065599999996
+2026-10-28 15:43:35 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 55.0
+2026-10-28 15:43:35 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 55.0
+2026-10-28 15:43:35 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 55.0
+2026-10-28 15:43:35 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 55.0
+2026-10-28 15:43:35 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 56.0. moment=255.97524600000003
+2026-10-28 15:43:35 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:36 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 61.0
+2026-10-28 15:43:36 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 61.0
+2026-10-28 15:43:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:36 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 62.0
+2026-10-28 15:43:36 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 62.0
+2026-10-28 15:43:36 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 62.0
+2026-10-28 15:43:36 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 62.0
+2026-10-28 15:43:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:37 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:37 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 66.0
+2026-10-28 15:43:37 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 66.0
+2026-10-28 15:43:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:39 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:39 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:39 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 80.0
+2026-10-28 15:43:39 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 80.0
+2026-10-28 15:43:39 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 80.0
+2026-10-28 15:43:39 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 80.0
+2026-10-28 15:43:39 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:39 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:39 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 81.0
+2026-10-28 15:43:39 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 81.0
+2026-10-28 15:43:39 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 81.0
+2026-10-28 15:43:39 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 81.0
+2026-10-28 15:43:40 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:40 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:40 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:40 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 87.0
+2026-10-28 15:43:40 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 87.0
+2026-10-28 15:43:40 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 87.0
+2026-10-28 15:43:40 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 87.0
+2026-10-28 15:43:40 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 89.0
+2026-10-28 15:43:40 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 89.0
+2026-10-28 15:43:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:42 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:43:42 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:43:42 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 101.0
+2026-10-28 15:43:42 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 101.0
+2026-10-28 15:43:42 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 101.0
+2026-10-28 15:43:42 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 101.0
+2026-10-28 15:43:43 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 102.0
+2026-10-28 15:43:43 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 102.0
+2026-10-28 15:43:43 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 102.0
+2026-10-28 15:43:43 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 102.0
+2026-10-28 15:43:43 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 109.0
+2026-10-28 15:43:43 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 109.0
+2026-10-28 15:43:43 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 109.0
+2026-10-28 15:43:45 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 111.0
+2026-10-28 15:43:45 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 111.0
+2026-10-28 15:43:45 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 111.0
+2026-10-28 15:43:45 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 122.0
+2026-10-28 15:43:45 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 122.0
+2026-10-28 15:43:45 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 122.0
+2026-10-28 15:43:45 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 122.0
+2026-10-28 15:43:44 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 123.0
+2026-10-28 15:43:44 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 123.0
+2026-10-28 15:43:46 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 126.0
+2026-10-28 15:43:46 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 126.0
+2026-10-28 15:43:46 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 126.0
+2026-10-28 15:43:46 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 126.0
+2026-10-28 15:43:46 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 129.0
+2026-10-28 15:43:46 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 129.0
+2026-10-28 15:43:46 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 129.0
+2026-10-28 15:43:46 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 129.0
+2026-10-28 15:43:48 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 135.0
+2026-10-28 15:43:48 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 135.0
+2026-10-28 15:43:48 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 135.0
+2026-10-28 15:43:48 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 139.0
+2026-10-28 15:43:48 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 140.0
+2026-10-28 15:43:48 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 140.0
+2026-10-28 15:43:49 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 144.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:43:49 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 144.0
+2026-10-28 15:43:49 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 144.0
+2026-10-28 15:43:49 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 144.0
+2026-10-28 15:43:50 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 15:43:50 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 15:43:50 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:43:50 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 147.0
+2026-10-28 15:43:50 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 147.0
+2026-10-28 15:43:50 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 147.0
+2026-10-28 15:43:50 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 153.0
+2026-10-28 15:43:50 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 153.0
+2026-10-28 15:43:50 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 153.0
+2026-10-28 15:43:51 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:43:51 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:43:51 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:43:51 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 160.0
+2026-10-28 15:43:51 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 160.0
+2026-10-28 15:43:51 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 160.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 164.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 164.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 164.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 164.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 165.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 165.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 165.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 165.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 167.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 167.0
+2026-10-28 15:43:52 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 167.0
+2026-10-28 15:43:53 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 169.0
+2026-10-28 15:43:53 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 169.0
+2026-10-28 15:43:53 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 169.0
+2026-10-28 15:43:53 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 174.0
+2026-10-28 15:43:53 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 174.0
+2026-10-28 15:43:53 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 174.0
+2026-10-28 15:43:53 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 174.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 177.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 177.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 177.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 180.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 180.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 180.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 182.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 182.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 182.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 183.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 183.0
+2026-10-28 15:43:54 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 183.0
+2026-10-28 15:43:55 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 185.0
+2026-10-28 15:43:55 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 185.0
+2026-10-28 15:43:55 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 185.0
+2026-10-28 15:43:55 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 186.0
+2026-10-28 15:43:55 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 186.0
+2026-10-28 15:43:55 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 186.0
+2026-10-28 15:43:55 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:43:58 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 203.0
+2026-10-28 15:43:58 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 203.0
+2026-10-28 15:43:58 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 203.0
+2026-10-28 15:43:58 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 203.0
+2026-10-28 15:43:58 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 206.0
+2026-10-28 15:43:59 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 209.0
+2026-10-28 15:43:59 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 212.0
+2026-10-28 15:43:59 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 212.0
+2026-10-28 15:43:59 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 212.0
+2026-10-28 15:43:59 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 212.0
+2026-10-28 15:44:01 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 225.0
+2026-10-28 15:44:01 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 225.0
+2026-10-28 15:44:01 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 225.0
+2026-10-28 15:44:01 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 225.0
+2026-10-28 15:44:02 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 228.0
+2026-10-28 15:44:02 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 228.0
+2026-10-28 15:44:02 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 228.0
+2026-10-28 15:44:02 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 228.0
+2026-10-28 15:44:02 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 228.0
+2026-10-28 15:44:04 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 241.0
+2026-10-28 15:44:04 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 241.0
+2026-10-28 15:44:04 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 241.0
+2026-10-28 15:44:04 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 241.0
+2026-10-28 15:44:04 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 243.0
+2026-10-28 15:44:04 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 243.0
+2026-10-28 15:44:04 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 243.0
+2026-10-28 15:44:04 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 243.0
+2026-10-28 15:44:06 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 257.0
+2026-10-28 15:44:06 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 257.0
+2026-10-28 15:44:06 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 257.0
+2026-10-28 15:44:06 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 257.0
+2026-10-28 15:44:09 Juancho507 mylogger[1630] INFO Smart kick : True -> seq speed is 1.0202551186870514 & tar speed eps is 1.0202551086870515
+2026-10-28 15:44:09 Juancho507 mylogger[1630] INFO Smart kick : True seq -> speed : 1.0202551186870514 power : 66.42049593156678 score : 966.7897520342166 flag : 0 next_pos : (14.06610568828039,21.08743336789252) 1 step [(14.06610568828039,21.08743336789252)]
+2026-10-28 15:44:09 Juancho507 mylogger[1630] WARNING player(10 lost kick at cycle GameTime cycle 263.0
+2026-10-28 15:44:09 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 263.0
+2026-10-28 15:44:09 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 263.0
+2026-10-28 15:44:09 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 263.0
+2026-10-28 15:44:09 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 263.0
+2026-10-28 15:44:09 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 263.0
+2026-10-28 15:44:09 Juancho507 mylogger[1630] ERROR (set dash) player(10) rel_dir is out of boundary at cycle GameTime cycle 275.0. power=-100.0
+2026-10-28 15:44:10 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 278.0. moment=207.50523986870652
+2026-10-28 15:44:10 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 278.0
+2026-10-28 15:44:12 Juancho507 mylogger[1630] INFO Smart kick : True -> seq speed is 0.8177700404553374 & tar speed eps is 0.8177700304553374
+2026-10-28 15:44:12 Juancho507 mylogger[1630] INFO Smart kick : True seq -> speed : 0.8177700404553374 power : 39.26030053736683 score : 980.3698497313165 flag : 0 next_pos : (13.942135539718635,20.635775549937808) 1 step [(13.942135539718635,20.635775549937808)]
+2026-10-28 15:44:14 Juancho507 mylogger[1630] INFO Smart kick : True -> seq speed is 1.4479802400124921 & tar speed eps is 1.4479802300124922
+2026-10-28 15:44:14 Juancho507 mylogger[1630] INFO Smart kick : True seq -> speed : 1.4479802400124921 power : 76.95180520615244 score : 961.5240973969238 flag : 0 next_pos : (13.295727837995775,19.3860119092268) 1 step [(13.295727837995775,19.3860119092268)]
+2026-10-28 15:44:14 Juancho507 mylogger[1630] WARNING player(10 lost kick at cycle GameTime cycle 294.0
+2026-10-28 15:44:14 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 294.0
+2026-10-28 15:44:15 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:44:15 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:44:16 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 310.0
+2026-10-28 15:44:16 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 310.0
+2026-10-28 15:44:16 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 310.0
+2026-10-28 15:44:16 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 310.0
+2026-10-28 15:44:16 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 312.0
+2026-10-28 15:44:16 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 312.0
+2026-10-28 15:44:16 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 312.0
+2026-10-28 15:44:16 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 312.0
+2026-10-28 15:44:17 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 15:44:17 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 15:44:17 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:44:17 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 321.0
+2026-10-28 15:44:18 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 328.0
+2026-10-28 15:44:18 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 331.0
+2026-10-28 15:44:18 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 331.0
+2026-10-28 15:44:18 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 331.0
+2026-10-28 15:44:18 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 331.0
+2026-10-28 15:44:19 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 336.0
+2026-10-28 15:44:19 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 336.0
+2026-10-28 15:44:19 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 336.0
+2026-10-28 15:44:19 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 336.0
+2026-10-28 15:44:20 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 348.0
+2026-10-28 15:44:20 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 348.0
+2026-10-28 15:44:20 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 348.0
+2026-10-28 15:44:21 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 351.0
+2026-10-28 15:44:21 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 354.0
+2026-10-28 15:44:21 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 354.0
+2026-10-28 15:44:21 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 354.0
+2026-10-28 15:44:21 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 356.0
+2026-10-28 15:44:21 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 356.0
+2026-10-28 15:44:21 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 356.0
+2026-10-28 15:44:22 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 358.0
+2026-10-28 15:44:22 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 358.0
+2026-10-28 15:44:22 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 358.0
+2026-10-28 15:44:22 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 360.0
+2026-10-28 15:44:22 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 364.0
+2026-10-28 15:44:22 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 364.0
+2026-10-28 15:44:22 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 364.0
+2026-10-28 15:44:23 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 365.0
+2026-10-28 15:44:23 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 365.0
+2026-10-28 15:44:23 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 365.0
+2026-10-28 15:44:25 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 380.0
+2026-10-28 15:44:25 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 380.0
+2026-10-28 15:44:25 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 380.0
+2026-10-28 15:44:25 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 382.0
+2026-10-28 15:44:25 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 382.0
+2026-10-28 15:44:25 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 382.0
+2026-10-28 15:44:26 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 388.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:44:26 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 388.0
+2026-10-28 15:44:27 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 396.0
+2026-10-28 15:44:27 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 396.0
+2026-10-28 15:44:27 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 396.0
+2026-10-28 15:44:27 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 398.0
+2026-10-28 15:44:27 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 398.0
+2026-10-28 15:44:27 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 398.0
+2026-10-28 15:44:28 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 407.0
+2026-10-28 15:44:28 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 407.0
+2026-10-28 15:44:28 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 407.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 410.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 410.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 410.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 412.0. moment=405.11914504314075
+2026-10-28 15:44:29 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:44:29 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 412.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 415.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 415.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 415.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 415.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 416.0
+2026-10-28 15:44:29 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 416.0
+2026-10-28 15:44:31 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 428.0
+2026-10-28 15:44:31 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 428.0
+2026-10-28 15:44:31 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 428.0
+2026-10-28 15:44:31 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 428.0
+2026-10-28 15:44:32 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 429.0
+2026-10-28 15:44:32 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 429.0
+2026-10-28 15:44:32 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 429.0
+2026-10-28 15:44:32 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 429.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 436.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 436.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 436.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:44:33 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:44:33 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 440.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 440.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 440.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 444.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 444.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 444.0
+2026-10-28 15:44:33 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 444.0
+2026-10-28 15:44:35 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 445.0
+2026-10-28 15:44:35 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 445.0
+2026-10-28 15:44:35 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 445.0
+2026-10-28 15:44:35 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 445.0
+2026-10-28 15:44:36 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 457.0
+2026-10-28 15:44:36 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 457.0
+2026-10-28 15:44:36 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 457.0
+2026-10-28 15:44:36 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 457.0
+2026-10-28 15:44:36 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 464.0
+2026-10-28 15:44:36 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 464.0
+2026-10-28 15:44:36 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 464.0
+2026-10-28 15:44:36 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 464.0
+2026-10-28 15:44:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.NORMAL
+2026-10-28 15:44:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.NORMAL
+2026-10-28 15:44:39 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 474.0
+2026-10-28 15:44:39 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 474.0
+2026-10-28 15:44:39 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 474.0
+2026-10-28 15:44:40 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 479.0
+2026-10-28 15:44:40 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 479.0
+2026-10-28 15:44:40 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 479.0
+2026-10-28 15:44:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:44:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:44:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:44:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:44:41 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 494.0
+2026-10-28 15:44:42 Juancho507 mylogger[1630] WARNING NO ACTION, ScanFIELD
+2026-10-28 15:44:42 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 499.0. moment=249.439308
+2026-10-28 15:44:42 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:44:42 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 15:44:42 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 500.0
+2026-10-28 15:44:42 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 500.0
+2026-10-28 15:44:42 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 500.0
+2026-10-28 15:44:42 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 500.0
+2026-10-28 15:44:42 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:44:42 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:44:43 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 507.0
+2026-10-28 15:44:43 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 507.0
+2026-10-28 15:44:43 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 507.0
+2026-10-28 15:44:43 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 507.0
+2026-10-28 15:44:44 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 510.0. moment=383.9639115437499
+2026-10-28 15:44:44 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 510.0
+2026-10-28 15:44:44 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 510.0
+2026-10-28 15:44:44 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 510.0
+2026-10-28 15:44:44 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 510.0
+2026-10-28 15:44:44 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 515.0
+2026-10-28 15:44:44 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 515.0
+2026-10-28 15:44:44 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 515.0
+2026-10-28 15:44:44 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 515.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 523.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 523.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 523.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 523.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 525.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 525.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 525.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 525.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 529.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 529.0
+2026-10-28 15:44:46 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 529.0
+2026-10-28 15:44:47 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 536.0
+2026-10-28 15:44:47 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 536.0
+2026-10-28 15:44:47 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 536.0
+2026-10-28 15:44:49 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 554.0
+2026-10-28 15:44:49 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 554.0
+2026-10-28 15:44:50 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 554.0
+2026-10-28 15:44:51 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 567.0
+2026-10-28 15:44:51 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 567.0
+2026-10-28 15:44:51 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 567.0
+2026-10-28 15:44:51 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 569.0
+2026-10-28 15:44:51 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 569.0
+2026-10-28 15:44:51 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 569.0
+2026-10-28 15:44:52 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 570.0
+2026-10-28 15:44:52 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 570.0
+2026-10-28 15:44:52 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 570.0
+2026-10-28 15:44:52 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 573.0
+2026-10-28 15:44:52 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 573.0
+2026-10-28 15:44:52 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 573.0
+2026-10-28 15:44:53 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 578.0
+2026-10-28 15:44:53 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 578.0
+2026-10-28 15:44:53 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 578.0
+2026-10-28 15:44:53 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 578.0
+2026-10-28 15:44:53 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 585.0
+2026-10-28 15:44:54 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 585.0
+2026-10-28 15:44:54 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 585.0
+2026-10-28 15:44:54 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 586.0
+2026-10-28 15:44:54 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 586.0
+2026-10-28 15:44:54 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 588.0
+2026-10-28 15:44:54 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 588.0
+2026-10-28 15:44:54 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 588.0
+2026-10-28 15:44:54 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 588.0
+2026-10-28 15:44:55 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 592.0. next neck angle=-96.24999999999999 -90.0 90.0
+2026-10-28 15:44:56 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 596.0
+2026-10-28 15:44:56 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 596.0
+2026-10-28 15:44:56 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 596.0
+2026-10-28 15:44:56 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 598.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:44:56 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:44:56 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 598.0
+2026-10-28 15:44:56 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 598.0
+2026-10-28 15:44:56 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 598.0
+2026-10-28 15:44:56 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 598.0
+2026-10-28 15:44:56 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 601.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:44:57 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 603.0
+2026-10-28 15:44:57 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 603.0
+2026-10-28 15:44:57 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 603.0
+2026-10-28 15:44:57 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 603.0
+2026-10-28 15:44:58 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 611.0
+2026-10-28 15:44:58 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 611.0
+2026-10-28 15:44:58 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 611.0
+2026-10-28 15:44:58 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 611.0
+2026-10-28 15:44:58 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 614.0
+2026-10-28 15:44:58 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 614.0
+2026-10-28 15:44:58 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 614.0
+2026-10-28 15:44:58 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 614.0
+2026-10-28 15:44:58 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 616.0
+2026-10-28 15:44:59 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 616.0
+2026-10-28 15:44:59 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 617.0
+2026-10-28 15:44:59 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 617.0
+2026-10-28 15:44:59 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 618.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:45:00 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:45:00 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:00 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 624.0
+2026-10-28 15:45:00 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 624.0
+2026-10-28 15:45:00 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 624.0
+2026-10-28 15:45:00 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 624.0
+2026-10-28 15:45:02 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 628.0
+2026-10-28 15:45:02 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 628.0
+2026-10-28 15:45:02 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 628.0
+2026-10-28 15:45:02 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 628.0
+2026-10-28 15:45:02 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 628.0
+2026-10-28 15:45:02 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 639.0
+2026-10-28 15:45:02 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 639.0
+2026-10-28 15:45:02 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 639.0
+2026-10-28 15:45:02 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 639.0
+2026-10-28 15:45:03 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 640.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:03 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 643.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:03 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 644.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:04 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 644.0
+2026-10-28 15:45:04 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 644.0
+2026-10-28 15:45:04 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 646.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:05 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 651.0
+2026-10-28 15:45:05 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 651.0
+2026-10-28 15:45:05 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 652.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:05 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 652.0
+2026-10-28 15:45:05 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 652.0
+2026-10-28 15:45:05 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 652.0
+2026-10-28 15:45:05 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 652.0
+2026-10-28 15:45:05 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 654.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 657.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 657.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 657.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 657.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 657.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 659.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 659.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 659.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 659.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 659.0
+2026-10-28 15:45:06 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 661.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:07 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 663.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:07 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 664.0. moment=-205.77485871372764
+2026-10-28 15:45:07 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 664.0
+2026-10-28 15:45:07 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 664.0
+2026-10-28 15:45:08 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 666.0
+2026-10-28 15:45:08 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 666.0
+2026-10-28 15:45:08 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 666.0
+2026-10-28 15:45:08 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 666.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 676.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 676.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 676.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 676.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 679.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 679.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 679.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 679.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 681.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 681.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 681.0
+2026-10-28 15:45:10 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 681.0
+2026-10-28 15:45:11 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 687.0
+2026-10-28 15:45:11 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 687.0
+2026-10-28 15:45:12 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 688.0
+2026-10-28 15:45:12 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 688.0
+2026-10-28 15:45:12 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 688.0
+2026-10-28 15:45:12 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 690.0. moment=-226.63981381428533
+2026-10-28 15:45:12 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 690.0
+2026-10-28 15:45:12 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 690.0
+2026-10-28 15:45:12 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 690.0
+2026-10-28 15:45:13 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 699.0
+2026-10-28 15:45:13 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 699.0
+2026-10-28 15:45:14 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 699.0
+2026-10-28 15:45:14 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 699.0
+2026-10-28 15:45:14 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 701.0
+2026-10-28 15:45:14 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 701.0
+2026-10-28 15:45:14 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 701.0
+2026-10-28 15:45:14 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 701.0
+2026-10-28 15:45:15 Juancho507 mylogger[1630] WARNING NO ACTION, ScanFIELD
+2026-10-28 15:45:15 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 706.0. moment=266.32269599999995
+2026-10-28 15:45:15 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:15 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:15 Juancho507 mylogger[1630] WARNING NO ACTION, ScanFIELD
+2026-10-28 15:45:15 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:16 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 710.0
+2026-10-28 15:45:16 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 710.0
+2026-10-28 15:45:16 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 710.0
+2026-10-28 15:45:16 Juancho507 mylogger[1630] WARNING NO ACTION, ScanFIELD
+2026-10-28 15:45:16 Juancho507 mylogger[1630] WARNING NO ACTION, ScanFIELD
+2026-10-28 15:45:16 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING NO ACTION, ScanFIELD
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 718.0
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 718.0
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 718.0
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING NO ACTION, ScanFIELD
+2026-10-28 15:45:17 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 720.0
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 720.0
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 720.0
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING NO ACTION, ScanFIELD
+2026-10-28 15:45:17 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING NO ACTION, ScanFIELD
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 722.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:45:18 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 723.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 723.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 723.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 723.0
+2026-10-28 15:45:17 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:17 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.NORMAL
+2026-10-28 15:45:17 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 727.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 729.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 729.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 729.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 731.0. moment=-209.753360836671
+2026-10-28 15:45:18 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:45:18 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:45:18 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 731.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 731.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 731.0
+2026-10-28 15:45:18 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 731.0
+2026-10-28 15:45:19 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.NORMAL
+2026-10-28 15:45:19 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 737.0
+2026-10-28 15:45:19 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 737.0
+2026-10-28 15:45:19 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 737.0
+2026-10-28 15:45:19 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:45:19 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 739.0
+2026-10-28 15:45:19 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 739.0
+2026-10-28 15:45:19 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 739.0
+2026-10-28 15:45:20 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 740.0. moment=347.3460831672374
+2026-10-28 15:45:21 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 742.0. moment=193.4421649134151
+2026-10-28 15:45:21 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 742.0
+2026-10-28 15:45:21 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 742.0
+2026-10-28 15:45:21 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 742.0
+2026-10-28 15:45:21 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 742.0
+2026-10-28 15:45:21 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:45:22 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 750.7. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:45:23 Juancho507 mylogger[1630] WARNING player(10) lost MOVE at cycle GameTime cycle 750.7
+2026-10-28 15:45:23 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 750.7
+2026-10-28 15:45:23 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.7
+2026-10-28 15:45:23 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 750.10. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:45:23 Juancho507 mylogger[1630] WARNING player(10) lost MOVE at cycle GameTime cycle 750.10
+2026-10-28 15:45:23 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 750.10
+2026-10-28 15:45:23 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.10
+2026-10-28 15:45:23 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 750.14. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:45:24 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 750.19
+2026-10-28 15:45:24 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 750.19
+2026-10-28 15:45:24 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.19
+2026-10-28 15:45:24 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.20
+2026-10-28 15:45:24 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 750.22
+2026-10-28 15:45:24 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 750.22
+2026-10-28 15:45:24 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.22
+2026-10-28 15:45:25 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.24
+2026-10-28 15:45:25 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 750.28
+2026-10-28 15:45:25 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 750.28
+2026-10-28 15:45:25 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.28
+2026-10-28 15:45:26 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 750.31
+2026-10-28 15:45:26 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 750.31
+2026-10-28 15:45:26 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.31
+2026-10-28 15:45:26 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 750.34
+2026-10-28 15:45:26 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 750.34
+2026-10-28 15:45:26 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.34
+2026-10-28 15:45:27 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 750.37
+2026-10-28 15:45:27 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 750.37
+2026-10-28 15:45:27 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.37
+2026-10-28 15:45:29 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 750.46
+2026-10-28 15:45:29 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 750.46
+2026-10-28 15:45:29 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 750.46
+2026-10-28 15:45:29 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 751.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:45:29 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 15:45:29 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 15:45:29 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:30 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 751.0
+2026-10-28 15:45:30 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 751.0
+2026-10-28 15:45:30 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 751.0
+2026-10-28 15:45:30 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 756.0. next neck angle=-96.25 -90.0 90.0
+2026-10-28 15:45:31 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 760.0
+2026-10-28 15:45:31 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 760.0
+2026-10-28 15:45:31 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 760.0
+2026-10-28 15:45:31 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 760.0
+2026-10-28 15:45:32 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 762.0
+2026-10-28 15:45:32 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 762.0
+2026-10-28 15:45:32 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 762.0
+2026-10-28 15:45:32 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 762.0
+2026-10-28 15:45:32 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 769.0
+2026-10-28 15:45:32 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 769.0
+2026-10-28 15:45:32 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 769.0
+2026-10-28 15:45:32 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 769.0
+2026-10-28 15:45:33 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 774.0
+2026-10-28 15:45:33 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 774.0
+2026-10-28 15:45:33 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 774.0
+2026-10-28 15:45:33 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 774.0
+2026-10-28 15:45:33 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.NARROW
+2026-10-28 15:45:33 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 779.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:34 Juancho507 mylogger[1630] ERROR (set turn neck) player(10)                 next neck angle is out of range at cycle GameTime cycle 780.0. next neck angle=263.75 -90.0 90.0
+2026-10-28 15:45:34 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.NORMAL
+2026-10-28 15:45:35 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:35 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:35 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:35 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:35 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:35 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:36 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:37 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:37 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 798.0
+2026-10-28 15:45:37 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 798.0
+2026-10-28 15:45:37 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 798.0
+2026-10-28 15:45:37 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 798.0
+2026-10-28 15:45:37 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 799.0
+2026-10-28 15:45:37 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 799.0
+2026-10-28 15:45:37 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 799.0
+2026-10-28 15:45:37 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 799.0
+2026-10-28 15:45:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 15:45:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:38 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:39 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:39 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:40 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:40 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 817.0
+2026-10-28 15:45:40 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 817.0
+2026-10-28 15:45:40 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 817.0
+2026-10-28 15:45:40 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 817.0
+2026-10-28 15:45:41 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 818.0
+2026-10-28 15:45:41 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 818.0
+2026-10-28 15:45:41 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 818.0
+2026-10-28 15:45:41 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 818.0
+2026-10-28 15:45:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:41 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:42 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:42 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 830.0. moment=196.88338799999997
+2026-10-28 15:45:42 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:43 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:43 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:43 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:43 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:43 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 835.0
+2026-10-28 15:45:43 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 835.0
+2026-10-28 15:45:44 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 835.0
+2026-10-28 15:45:44 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 835.0
+2026-10-28 15:45:44 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 839.0
+2026-10-28 15:45:44 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 839.0
+2026-10-28 15:45:44 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NARROW, new=ViewWidth.WIDE
+2026-10-28 15:45:44 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:45 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:45 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:45 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:45 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:46 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NARROW
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 849.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 849.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 849.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 849.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 852.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 852.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 852.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 852.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 854.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 854.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 854.0
+2026-10-28 15:45:46 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 854.0
+2026-10-28 15:45:47 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 858.0
+2026-10-28 15:45:47 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 858.0
+2026-10-28 15:45:48 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 859.0
+2026-10-28 15:45:48 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 859.0
+2026-10-28 15:45:48 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 859.0
+2026-10-28 15:45:48 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 859.0
+2026-10-28 15:45:48 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 859.0
+2026-10-28 15:45:48 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 864.0
+2026-10-28 15:45:48 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 864.0
+2026-10-28 15:45:48 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 864.0
+2026-10-28 15:45:49 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 865.0
+2026-10-28 15:45:49 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 865.0
+2026-10-28 15:45:49 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 865.0
+2026-10-28 15:45:49 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 869.0
+2026-10-28 15:45:50 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 871.0
+2026-10-28 15:45:50 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 871.0
+2026-10-28 15:45:50 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 871.0
+2026-10-28 15:45:48 Juancho507 mylogger[1630] ERROR (set turn neck) player(10) moment is out of range at cycle GameTime cycle 874.0. moment=-180.0
+2026-10-28 15:45:50 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 877.0
+2026-10-28 15:45:50 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 877.0
+2026-10-28 15:45:50 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 877.0
+2026-10-28 15:45:50 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 877.0
+2026-10-28 15:45:50 Juancho507 mylogger[1630] WARNING player(10) lost command SAY at cycle GameTime cycle 888.0
+2026-10-28 15:45:51 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 890.0
+2026-10-28 15:45:51 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 890.0
+2026-10-28 15:45:51 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 890.0
+2026-10-28 15:45:53 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:45:53 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:45:53 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.NORMAL, new=ViewWidth.WIDE
+2026-10-28 15:45:53 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:53 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 895.0
+2026-10-28 15:45:53 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 895.0
+2026-10-28 15:45:53 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 895.0
+2026-10-28 15:45:56 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 919.0
+2026-10-28 15:45:56 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 919.0
+2026-10-28 15:45:56 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 919.0
+2026-10-28 15:45:58 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 925.0
+2026-10-28 15:45:58 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 925.0
+2026-10-28 15:45:58 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 925.0
+2026-10-28 15:45:58 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 934.0. moment=-333.0366439510534
+2026-10-28 15:45:59 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:59 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:59 Juancho507 mylogger[1630] INFO see state: (update by sense body)vew_width does not match. old=ViewWidth.WIDE, new=ViewWidth.NORMAL
+2026-10-28 15:45:59 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 935.0
+2026-10-28 15:45:59 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 935.0
+2026-10-28 15:45:59 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 935.0
+2026-10-28 15:45:59 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 935.0
+2026-10-28 15:46:00 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 945.0
+2026-10-28 15:46:00 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 945.0
+2026-10-28 15:46:00 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 945.0
+2026-10-28 15:46:00 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 945.0
+2026-10-28 15:46:02 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 953.0
+2026-10-28 15:46:02 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 953.0
+2026-10-28 15:46:02 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 953.0
+2026-10-28 15:46:02 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 953.0
+2026-10-28 15:46:03 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 959.0
+2026-10-28 15:46:03 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 959.0
+2026-10-28 15:46:03 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 959.0
+2026-10-28 15:46:03 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 959.0
+2026-10-28 15:46:04 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 965.0
+2026-10-28 15:46:04 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 965.0
+2026-10-28 15:46:04 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 965.0
+2026-10-28 15:46:04 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 965.0
+2026-10-28 15:46:05 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 972.0
+2026-10-28 15:46:05 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 972.0
+2026-10-28 15:46:06 Juancho507 mylogger[1630] ERROR (set turn) player(10) moment is out of boundary at cycle GameTime cycle 974.0. moment=-342.83148673534686
+2026-10-28 15:46:06 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 974.0
+2026-10-28 15:46:06 Juancho507 mylogger[1630] WARNING player(10) lost DASH at cycle GameTime cycle 974.0
+2026-10-28 15:46:09 Juancho507 mylogger[1630] WARNING player(10) lost TURN at cycle GameTime cycle 989.0
+2026-10-28 15:46:09 Juancho507 mylogger[1630] WARNING player(10) lost command TURN_NECK at cycle GameTime cycle 989.0
+2026-10-28 15:46:09 Juancho507 mylogger[1630] WARNING player(10) lost command CHANGE_VIEW at cycle GameTime cycle 989.0
+2026-10-28 15:46:09 Juancho507 mylogger[1630] WARNING player(10) lost command ATTENTIONTO at cycle GameTime cycle 989.0

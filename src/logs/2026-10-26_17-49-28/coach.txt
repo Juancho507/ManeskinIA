@@ -1,0 +1,32 @@
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(1)'s type changed to 0
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(11)'s type changed to 6
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(2)'s type changed to 11
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(3)'s type changed to 7
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(10)'s type changed to 17
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(9)'s type changed to 3
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(6)'s type changed to 9
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(4)'s type changed to 12
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(5)'s type changed to 13
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(7)'s type changed to 1
+17:50:23:1793055023 sample_coach.py 73   (sample coach subsititute to) player(8)'s type changed to 2
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=1
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=11
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=2
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=3
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=10
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=9
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=6
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=4
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=5
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=7
+17:50:23:1793055023 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=8
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=2
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=3
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=4
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=5
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=6
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=7
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=8
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=9
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=10
+17:50:41:1793055041 gloabl_world_model.py 181  (change player type) unum or side is not standard. side=SideID.NEUTRAL unum=11

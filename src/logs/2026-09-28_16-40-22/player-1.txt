@@ -1,0 +1,9 @@
+16:41:41:1790631701 action_effector.py 464  (set turn neck) player(1)                 next neck angle is out of range at cycle GameTime cycle 0.117. next neck angle=-96.25 -90.0 90.0
+16:41:58:1790631718 action_effector.py 384  (set turn) player(1) moment is out of boundary at cycle GameTime cycle 6.0. moment=387.00000000000006
+16:41:58:1790631718 action_effector.py 384  (set turn) player(1) moment is out of boundary at cycle GameTime cycle 8.0. moment=216.0
+16:41:58:1790631718 action_effector.py 384  (set turn) player(1) moment is out of boundary at cycle GameTime cycle 9.0. moment=198.00000000000003
+16:41:58:1790631718 action_effector.py 384  (set turn) player(1) moment is out of boundary at cycle GameTime cycle 10.0. moment=189.0
+16:44:58:1790631898 action_effector.py 384  (set turn) player(1) moment is out of boundary at cycle GameTime cycle 1144.0. moment=225.0
+16:44:58:1790631898 action_effector.py 384  (set turn) player(1) moment is out of boundary at cycle GameTime cycle 1145.0. moment=198.00000000000003
+16:44:58:1790631898 action_effector.py 384  (set turn) player(1) moment is out of boundary at cycle GameTime cycle 1146.0. moment=234.0
+16:44:58:1790631898 action_effector.py 384  (set turn) player(1) moment is out of boundary at cycle GameTime cycle 1148.0. moment=189.0
